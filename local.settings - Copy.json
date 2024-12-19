@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "ACCOUNTS_LIST": "['PI', 'DA', 'YU']",
+    "UW_VAULT_NAME": "pi-keyvault",
+    "PO_VAULT_NAME": "da-keyvault",
+    "DTA_VAULT_NAME": "yu-keyvault",
+    "STORAGE_ACCOUNT_NAME": "storage1",
+    "TAX_REPORTS_BLOB_CONTAINER_NAME": "tax-reports",
+    "AzureWebJobsStorage": "<your_storage_account_connection_string_here>",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "REFRESH_TOKEN": "refresh-token",
+    "CLIENT_ID": "client-identifier", 
+    "CLIENT_SECRET": "client-secret",
+    "ROTATION_DEADLINE": "rotation-deadline",
+    "MARKETPLACE_ID": "ATVPDKIKX0DER",
+    "TOKEN_REQUEST_URL": "https://api.amazon.com/auth/o2/token",
+    "ENDPOINT": "https://sellingpartnerapi-na.amazon.com/reports/2021-06-30",
+    "MERCHANT_TOKEN": "BZB7D7YTQ2WPW"
+  }
+}
